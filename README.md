@@ -8,4 +8,5 @@ Program functions:
 * Automatic average of constant horizontal strokes;
 * Possibility of multiple measurements with calculation of the statistical repeatability parameters.
 
+
 Dependencies: Numpy, Matplotlib, Pandas.
