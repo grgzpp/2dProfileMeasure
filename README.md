@@ -7,3 +7,5 @@ Program functions:
 * Automatic identification of points starting from those of the sample profile;
 * Automatic average of constant horizontal strokes;
 * Possibility of multiple measurements with calculation of the statistical repeatability parameters.
+
+Dependencies: Numpy, Matplotlib, Pandas.
